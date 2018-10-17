@@ -16,5 +16,10 @@ namespace Thermometer
         {
             InitializeComponent();
         }
+
+        private void scrTemperature_Scroll(object sender, ScrollEventArgs e)
+        {
+
+        }
     }
 }
