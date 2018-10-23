@@ -1,0 +1,9 @@
+C:\Users\Administrator\AppData\Local\Temp\Tafe-C-projects-master\Tafe-C-projects-master\Thermometer\Thermometer\Thermometer\bin\Release\Thermometer.exe.config
+C:\Users\Administrator\AppData\Local\Temp\Tafe-C-projects-master\Tafe-C-projects-master\Thermometer\Thermometer\Thermometer\bin\Release\Thermometer.exe
+C:\Users\Administrator\AppData\Local\Temp\Tafe-C-projects-master\Tafe-C-projects-master\Thermometer\Thermometer\Thermometer\bin\Release\Thermometer.pdb
+C:\Users\Administrator\AppData\Local\Temp\Tafe-C-projects-master\Tafe-C-projects-master\Thermometer\Thermometer\Thermometer\obj\Release\Thermometer.Main.resources
+C:\Users\Administrator\AppData\Local\Temp\Tafe-C-projects-master\Tafe-C-projects-master\Thermometer\Thermometer\Thermometer\obj\Release\Thermometer.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temp\Tafe-C-projects-master\Tafe-C-projects-master\Thermometer\Thermometer\Thermometer\obj\Release\Thermometer.csproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temp\Tafe-C-projects-master\Tafe-C-projects-master\Thermometer\Thermometer\Thermometer\obj\Release\Thermometer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\AppData\Local\Temp\Tafe-C-projects-master\Tafe-C-projects-master\Thermometer\Thermometer\Thermometer\obj\Release\Thermometer.exe
+C:\Users\Administrator\AppData\Local\Temp\Tafe-C-projects-master\Tafe-C-projects-master\Thermometer\Thermometer\Thermometer\obj\Release\Thermometer.pdb
